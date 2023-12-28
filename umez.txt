@@ -1,2 +1,4 @@
-hi
-umez
+main()
+{
+a,b
+}
